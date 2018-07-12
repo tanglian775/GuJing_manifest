@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/tanglian775/GuJing_manifest/blob/master/GuJing.ipa</string>
+					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/GuJing.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/tanglian775/GuJing_manifest/blob/master/icon57x57.png</string>
+					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/icon57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/tanglian775/GuJing_manifest/blob/master/icon512x512.png</string>
+					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/icon512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
