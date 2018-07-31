@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/icon57x57.jpg</string>
+					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/image.57x57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/icon512x512.jpg</string>
+					<string>https://raw.githubusercontent.com/tanglian775/GuJing_manifest/master/image.512x512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
